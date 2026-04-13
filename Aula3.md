@@ -194,5 +194,3 @@ git config --global user.email "Email"
 * Documentações oficiais (Red Hat, Docker)
 
 ---
-
-Se quiser, posso transformar esse resumo em um **PDF bonitinho** ou em um **mapa mental** pra estudar mais rápido 👍
