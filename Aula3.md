@@ -1,4 +1,3 @@
-Aqui está um **resumo em Markdown (.md)** do PDF:
 
 ---
 
