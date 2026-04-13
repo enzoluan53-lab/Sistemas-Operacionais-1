@@ -1,4 +1,4 @@
-Este é um resumo estruturado em Markdown do arquivo "Aula 01 - Apresentação da Disciplina e Introdução aos Sistemas Operacionais":
+Aula 1
 Resumo: Introdução aos Sistemas Operacionais
 1. Apresentação da Disciplina
 A aula inicial, ministrada pelo Prof. Me. Deivison S. Takatu na Fatec, aborda a contextualização da disciplina, o plano de ensino, os critérios de avaliação e uma introdução técnica aos Sistemas Operacionais (SO).
